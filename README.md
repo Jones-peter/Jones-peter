@@ -1,12 +1,12 @@
 # Hi there! I'm Jones Peter 
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** with 2 years of experience in building efficient and scalable applications. I love researching and implementing innovative solutions to complex problems.
+I'm a passionate **Software Developer** with 3 years of experience in building efficient and scalable applications. I love researching and implementing innovative solutions to complex problems.
 
 ## 🛠 Skills & Technologies
-- **Programming Languages**: Python, PHP, JavaScript
-- **Frameworks & Libraries**: Django, PyQt5, Flutter
-- **Databases**: MySQL, Firebase
+- **Programming Languages**: C++, C, Python, PHP, JavaScript, VBA, C#, .NET. 
+- **Frameworks & Libraries**: Django, PyQt5, Flutter, ReactNative, Laravel
+- **Databases**: MySQL, Firebase, Sqlite
 - **Web Development**: HTML, CSS, Bootstrap, JavaScript
 - **Other Technologies**: Raspberry Pi, AutoCAD Automation, AI Integration
 
@@ -18,8 +18,8 @@ I'm a passionate **Software Developer** with 2 years of experience in building e
 ## 📫 Get in Touch
 - **Website**: Coming soon!
 - **GitHub**: [Jones-Peter](https://github.com/Jones-peter)
-- **LinkedIn**: [Your LinkedIn Profile Link](https://www.linkedin.com/in/jones-peter-t-121157221)
-- **Email**: [Your Email]
+- **LinkedIn**: [Jones Peter ](https://www.linkedin.com/in/jones-peter-121157221/)
+- **Email**: [jonespetersoftware@gmail.com]
 
 Let's connect and build something amazing! 🚀
 
