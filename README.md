@@ -12,7 +12,7 @@ I'm a passionate **Software Developer** with 3 years of experience in building e
 - **Embedded & IoT**: Embedded C, ESP32, Arduino Uno, RFID attendance  
 - **Other**: Raspberry Pi, AutoCAD Automation, AI Integration, ERP, Project Management, Railway Signaling  
 ## 📫 Get in Touch
-**Website**: Coming soon!  
+**Website**: (jonespeter.site)  
 **GitHub**: [Jones-Peter](https://github.com/Jones-peter)  
 **LinkedIn**: [Jones Peter](https://www.linkedin.com/in/jones-peter-121157221/)  
 **Email**: [jonespetersoftware@gmail.com](mailto:jonespetersoftware@gmail.com)  
