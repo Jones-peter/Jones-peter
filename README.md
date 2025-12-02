@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jones--Peter-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jones-peter-121157221/)
 [![Website](https://img.shields.io/badge/Website-jonespeter.site-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](https://jonespeter.site)
 
+![](https://komarev.com/ghpvc/?username=jones-peter&color=green)
+
 ## 🚀 About Me 
 I'm a passionate **Software Developer** with 3 years of experience in building efficient and scalable applications. I love researching and implementing innovative solutions to complex problems.  
 
