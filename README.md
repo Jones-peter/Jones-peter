@@ -1,4 +1,6 @@
-# Hi there! I'm JOnes
+# Jones Peter  
+**Creator of JsWeb** 🐍⚡  
+
 [![GitHub](https://img.shields.io/badge/GitHub-Jones--peter-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jones-peter)
 [![Instagram](https://img.shields.io/badge/Instagram-jones__peter__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jones_peter__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jones--Peter-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jones-peter-121157221/)
@@ -6,27 +8,37 @@
 
 ![](https://komarev.com/ghpvc/?username=jones-peter&color=green)
 
-## 🚀 About Me 
-I'm a passionate **Software Developer** with 3 years of experience in building efficient and scalable applications. I love researching and implementing innovative solutions to complex problems.  
+---
+
+## 🚀 About Me  
+Software Developer with 3+ years of experience building efficient and scalable applications.  
+Enjoys solving real-world problems with code and turning ideas into production-ready tools.  
+Creator of **JsWeb**, a modern Python web framework focused on simplicity and performance.  
+Open-source enthusiast | Always learning & building.
+
+---
 
 ## 🛠 Skills & Technologies  
-- **Programming**: C++, C, Python, JAVA, PHP, JavaScript, VBA, C#, .NET  
-- **Frameworks**: Django, PyQt5, Flutter, React Native, Laravel  
+- **Programming**: C++, C, Python, Java, PHP, JavaScript, VBA, C#, .NET  
+- **Frameworks**: Django, PyQt5, Flutter, React Native, Laravel, **JsWeb**  
 - **Databases**: MySQL, Firebase, SQLite  
 - **Web Dev**: HTML, CSS, Bootstrap, JavaScript  
 - **Mobile**: Android (Android Studio)  
-- **Embedded & IoT**: Embedded C, ESP32, Arduino Uno, RFID attendance  
-- **Other**: Raspberry Pi, AutoCAD Automation, AI Integration, ERP, Project Management, Railway Signaling  
-## 📫 Get in Touch
-**Website**: [jonespeter.site](https://jonespeter.site)  
-**GitHub**: [Jones-Peter](https://github.com/Jones-peter)  
-**LinkedIn**: [Jones Peter](https://www.linkedin.com/in/jones-peter-121157221/)  
-**Email**: [jonespetersoftware@gmail.com](mailto:jonespetersoftware@gmail.com)  
+- **Embedded & IoT**: Embedded C, ESP32, Arduino Uno, RFID Attendance Systems  
+- **Other**: AutoCAD Automation, AI Integration, ERP, Project Management, Railway Signaling  
 
-Let's connect and build something amazing! 🚀
+---
 
+## 📫 Get in Touch  
+**Website**: https://jonespeter.site  
+**GitHub**: https://github.com/Jones-peter  
+**LinkedIn**: https://www.linkedin.com/in/jones-peter-121157221/  
+**Email**: jonespetersoftware@gmail.com  
+
+Let’s build something amazing. 🚀
+
+---
 
 <!---
-Jones-peter/Jones-peter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Jones-peter/Jones-peter is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
