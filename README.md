@@ -20,7 +20,7 @@ Open-source enthusiast | Always learning & building.
 
 ## 🛠 Skills & Technologies  
 - **Programming**: C++, C, Python, Java, PHP, JavaScript, VBA, C#, .NET  
-- **Frameworks**: Django, PyQt5, Flutter, React Native, Laravel, **JsWeb**  
+- **Frameworks**: **JsWeb**, Flask, Django, PyQt5, Flutter, React Native, Laravel.  
 - **Databases**: MySQL, Firebase, SQLite  
 - **Web Dev**: HTML, CSS, Bootstrap, JavaScript  
 - **Mobile**: Android (Android Studio)  
