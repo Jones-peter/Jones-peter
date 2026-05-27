@@ -30,7 +30,7 @@ Open-source enthusiast | Always learning & building.
 ---
 
 ## 📫 Get in Touch  
-**Website**: https://jonespeter.site  
+**Website**: https://jonespeter.in  
 **GitHub**: https://github.com/Jones-peter  
 **LinkedIn**: https://www.linkedin.com/in/jones-peter-121157221/  
 **Email**: jonespetersoftware@gmail.com  
